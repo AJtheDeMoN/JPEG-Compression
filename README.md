@@ -10,6 +10,10 @@ To get started with this repository, clone the repository onto your local machin
 
     numpy
     Pillow
+    cv2
+    scipy
+    skimage
+    matpoltlib
 
 These can be installed using pip:
 
@@ -18,12 +22,7 @@ bash
     pip install numpy
     pip install Pillow
 
-Once you have the code and the required libraries installed, you can run the compression algorithm by running the following command:
-
-bash
-
-    python JPEG.py
-
+Once you have the code and the required libraries installed, you can run the compression algorithm by clicking on run all button in the menu ribbon
 
 
 The JPEG compression algorithm consists of the following steps:
